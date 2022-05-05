@@ -1,0 +1,3 @@
+abstract class BottomNavigationState{}
+class BottomNavigationInitial extends BottomNavigationState{}
+class BottomNavigationChange extends BottomNavigationState{}
